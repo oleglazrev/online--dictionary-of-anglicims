@@ -18,7 +18,7 @@ html {
 
 header {
   background-color: #101010;
-  width: 1521px;
+  width: 100vw;
   height: 50px;
   display: flex;
   position: sticky;
@@ -315,4 +315,5 @@ transition: 0.5s;
   color: black;
   font-weight: 600;
   text-decoration: solid black ;
+
 }
